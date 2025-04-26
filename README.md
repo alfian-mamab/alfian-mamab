@@ -24,7 +24,6 @@
 ## 📫 Know me more!
 - [LinkedIn](https://www.linkedin.com/in/alfianmamab/)
 - [Resume](https://drive.google.com/file/d/1f8N6MlDMklROkoaVVONerTNAZE_sxIiB/view?usp=drive_link)
-- [Email](mailto:fhiand.03@gmail.com)
 - [Portfolio](https://www.datascienceportfol.io/alfianmamab)
 
 ---

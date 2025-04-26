@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on Data Analytics & Statistics
 - 🛠️ Skilled in Python, R, SQL, Power BI, Tableau, Looker Studio, Microsoft Excel, SPSS, and Microsoft Power Automate
 - 📊 Experienced in data analysis, data visualization, machine learning, and public policy research
-- 🛩️ Exploring NLP, Cloud Big Data Technologies (AWS, Google Cloud, Azure) and Non-Linear Statistics 
-- 📄 Know about my work & experiences My Resume [Resume](https://drive.google.com/file/d/1f8N6MlDMklROkoaVVONerTNAZE_sxIiB/view?usp=drive_link)
+- 🛩️ Exploring NLP, Cloud Big Data Technologies (AWS, Google Cloud, Azure) and Non-Linear Statistics  
 - ⚡ Fun fact: ⚽CR7| 🏀Kobe | 🏍️VR46
 
 ---
@@ -22,8 +21,9 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Know me more!
 - [LinkedIn](https://www.linkedin.com/in/alfianmamab/)
+- [Resume](https://drive.google.com/file/d/1f8N6MlDMklROkoaVVONerTNAZE_sxIiB/view?usp=drive_link)
 - [Email](mailto:fhiand.03@gmail.com)
 - [Portfolio](https://www.datascienceportfol.io/alfianmamab)
 

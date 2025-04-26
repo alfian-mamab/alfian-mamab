@@ -1,24 +1,17 @@
-# Hi 👋, I'm Alfian Afan Ghafar El Mamab
+# Hi 👋, I'm Alfian Mamab
 
-🎯 A Data Analyst passionate about using data to drive decisions, improve public services, and create meaningful impact.
+🎯 A Data Analyst passionate about using data to drive decisions and create meaningful impact.
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 Master's in Data Analytics for Government (Dean’s List) | Bachelor's in Statistics
-- 🛠️ Skilled in Python, R, SQL, Power BI, Tableau, Looker Studio, and SPSS
-- 📊 Experienced in data analysis, visualization, machine learning, and public policy research
-- 🌍 Interested in social impact, business intelligence, and data-driven storytelling
-- 🚀 Always learning and building automation solutions with data!
-
----
-
-## 🔧 Skills
-- **Programming:** Python, R, SQL
-- **Data Handling:** Excel, MySQL, PostgreSQL
-- **Visualization:** Power BI, Tableau, Looker Studio
-- **Statistical Analysis:** SPSS, Machine Learning (SVM, Naïve Bayes, MLP, BERT)
-- **Reporting:** Dashboard Development, KPI Monitoring, Policy Recommendations
+- 🔭 I’m currently working on Data Analytics & Statistics
+- 🛠️ Skilled in Python, R, SQL, Power BI, Tableau, Looker Studio, Microsoft Excel, SPSS, and Microsoft Power Automate
+- 📊 Experienced in data analysis, data visualization, machine learning, and public policy research
+- 🛩️ Exploring NLP, Cloud Big Data Technologies (AWS, Google Cloud, Azure) and Non-Linear Statistics 
+- 📄 Know about my work & experiences My Resume [Resume](https://drive.google.com/file/d/1f8N6MlDMklROkoaVVONerTNAZE_sxIiB/view?usp=drive_link)
+- ⚡ Fun fact: ⚽CR7| 🏀Kobe | 🏍️VR46
 
 ---
 
@@ -35,22 +28,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="MS Excel logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleanalytics.svg" height="40" alt="Looker Studio logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Canva_Logo.png" height="40" alt="Canva logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/SQL_logo.png" height="40" alt="SQL logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SPSS_Statistics_logo.svg" height="40" alt="SPSS logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Microsoft_Power_Automate_logo.svg" height="40" alt="Microsoft Power Automate logo" />
 </div>
+
 
 ---
 
 ## 📚 Notable Projects
 - **Supermarket Sales Dashboard** — Built a Power BI dashboard tracking sales KPIs across branches
-- **Complaint Categorization Automation** — Used Python (Naïve Bayes, SVM, BERT) to classify public complaints
+- **Complaint Categorization Automation** — Used Naïve Bayes, SVM, and BERT to classify public complaints
 - **Survey Analysis for Public Service** — Designed surveys, performed data cleaning and visualization in R & Excel
-- **SQL Business Data Extraction** — Wrote optimized SQL queries for extracting key performance metrics
 
 ---
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/alfianmamab/)
 - [Portfolio](https://www.datascienceportfol.io/alfianmamab)
-- [Email](mailto:alfianafan95@gmail.com)
+- [Email](mailto:fhiand.03@gmail.com)
 
 ---
 

@@ -23,17 +23,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="40" alt="Tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="MS Excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" height="40" alt="MS Excel logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleanalytics.svg" height="40" alt="Looker Studio logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Data_Studio_logo.svg" height="40" alt="Looker Studio logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Canva_Logo.png" height="40" alt="Canva logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" height="40" alt="Canva logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/SQL_logo.png" height="40" alt="SQL logo" />
   <img width="12" />
@@ -41,6 +41,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Microsoft_Power_Automate_logo.svg" height="40" alt="Microsoft Power Automate logo" />
 </div>
+
 
 
 ---

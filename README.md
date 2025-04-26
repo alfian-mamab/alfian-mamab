@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm [Your Name]</h1>
+<h1 align="left">Hi 👋, I'm Alfian Afan Ghafar El Mamab</h1>
 
 ###
 
-<p align="left">I'm a Data Analyst passionate about transforming data into meaningful insights to drive better decisions.</p>
+<p align="left">I'm a Data Analyst passionate about using data to drive better decisions, improve public services, and create positive impact.</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">🎓 Master's in Data Analytics & Bachelor's in Statistics<br>🛠️ Skilled in Python, R, SQL, Power BI, Tableau, Looker Studio<br>📊 Love creating dashboards and uncovering business insights<br>🚀 Always curious about machine learning and automation<br>🌎 Open for remote opportunities and freelance projects</p>
+<p align="left">
+🎓 Master's Degree in Data Analytics for Government (Dean’s List) | Bachelor's in Statistics<br>
+🛠️ Skilled in Python, R, SQL, Tableau, Power BI, Looker Studio, SPSS<br>
+📊 Experienced in data management, statistical modeling, machine learning, and policy analytics<br>
+🚀 Strong background working with public sector data, surveys, and national complaint handling systems<br>
+🌍 Passionate about transforming complex data into actionable insights and automating manual processes
+</p>
 
 ###
 
@@ -25,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
@@ -36,12 +40,14 @@
 
 ###
 
-<h2 align="left">Projects & Work Samples</h2>
+<h2 align="left">Highlighted Projects</h2>
 
-- 📊 [Sales Dashboard - Power BI](#)  
-- 📈 [Customer Churn Analysis - Python](#)  
-- 📚 [Survey Data Analysis - R + ggplot2](#)  
-- 💾 [Business Metrics SQL Queries](#)
+- 📊 **Automated Categorization of Complaints** (Text classification using Naive Bayes, SVM, MLP, and BERT)  
+- 📈 **Public Complaint Data Analysis for Policy Recommendations** (Power BI Dashboard)  
+- 📚 **Survey Design and Analysis for Public Service Monitoring** (SPSS, Excel, R)  
+- 💾 **SQL Queries for Business and Public Data Extraction**
+
+(*Replace with project links when ready*)
 
 ###
 
@@ -50,10 +56,13 @@
 ###
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/alfianmamab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" height="25" alt="email logo" />
+  <a href="mailto:alfianafan95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" height="25" alt="email logo" />
+  </a>
+  <a href="https://www.datascienceportfol.io/alfianmamab" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-green?logo=github&logoColor=white" height="25" alt="portfolio logo" />
   </a>
 </p>

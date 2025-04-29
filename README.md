@@ -16,7 +16,7 @@
 
 ## 📚 Notable Projects
 - [**Supermarket Sales Dashboard**](https://github.com/alfian-mamab/Supermarket_Dashboard) — Built a Power BI dashboard tracking sales KPIs across branches
-- [**Complaint Categorization Automation**](https://github.com/alfian-mamab/NLP_Complaint_Data) — Used Naïve Bayes, SVM, and BERT to autoclassify public complaints
+- [**Complaint Autocategorization**](https://github.com/alfian-mamab/NLP_Complaint_Data) — Used Naïve Bayes, SVM, and BERT to autoclassify public complaints
 - [**Predict Stunting Cases**](https://github.com/alfian-mamab/Sub-Saharan_Child_Height) — Using Linear and Logistic Regression to Predict Stunting Cases in Sub-Saharan Countries
 
 ---

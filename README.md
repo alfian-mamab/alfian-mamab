@@ -16,8 +16,8 @@
 
 ## 📚 Notable Projects
 - **Supermarket Sales Dashboard** — Built a Power BI dashboard tracking sales KPIs across branches
-- **Complaint Categorization Automation** — Used Naïve Bayes, SVM, and BERT to classify public complaints
-- **Survey Analysis for Public Service** — Designed surveys, performed data cleaning and visualization in R & Excel
+- **Complaint Categorization Automation** — Used Naïve Bayes, SVM, and BERT to autoclassify public complaints
+- **Predict Stunting Cases** — Using Linear and Logistic Regression to Predict Stunting Cases in Sub-Saharan Countries
 
 ---
 

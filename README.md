@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Master's in Data Analytics for Government (Dean’s List) | Bachelor's in Statistics
-- 🔭 I’m currently working on Data Analytics & Statistics
+- 🔭 Currently working on Data Analytics & Statistics
 - 🛠️ Skilled in Python, R, SQL, Power BI, Tableau, Looker Studio, Microsoft Excel, SPSS, and Microsoft Power Automate
 - 📊 Experienced in data analysis, data visualization, machine learning, and public policy research
 - 🛩️ Exploring NLP, Cloud Big Data Technologies (AWS, Google Cloud, Azure) and Non-Linear Statistics  
